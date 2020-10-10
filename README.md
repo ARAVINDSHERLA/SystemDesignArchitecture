@@ -1,6 +1,5 @@
 # SystemDesignArchitecture-Interview
 
-
 # Distributed Locks -Tech Dummies
 # Distributed Systems -Horizontal & Vertical Scaling
 # Distributed Data Stores & works
