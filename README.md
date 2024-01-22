@@ -45,8 +45,8 @@ Inverted Index: Search engines typically use an inverted index data structure. I
 Inverted Index:
 
 Posting Lists: Each term in the index has an associated posting list that contains references (pointers or document IDs) to the documents where the term appears.
-Term Frequency (TF): Indicates how often a term appears in a document.
-Inverse Document Frequency (IDF): Measures the importance of a term across all documents.
+**Term Frequency (TF):** Indicates how often a term appears in a document.
+**Inverse Document Frequency (IDF):** Measures the importance of a term across all documents.
 PageRank Algorithm:
 
 Graph Representation: The web can be represented as a graph, where web pages are nodes and hyperlinks are edges.
@@ -60,10 +60,10 @@ B-trees: Often used in database indexing to efficiently organize and retrieve da
 Tries: Trie data structures are used in databases and search engines for storing and searching key-value pairs.
 Hash Tables:
 
-URL Hashing: Search engines may use hash tables for quick lookups of URLs and associated metadata.
-Machine Learning Models:
+**URL Hashing:** Search engines may use hash tables for quick lookups of URLs and associated metadata.
+**Machine Learning Models:**
 
-Ranking Algorithms: Search engines often use machine learning models to improve search result rankings based on user behavior, relevance, and other factors.
+**Ranking Algorithms:** Search engines often use machine learning models to improve search result rankings based on user behavior, relevance, and other factors.
 Understanding and optimizing these data structures is crucial for search engines to provide users with relevant and timely search results efficiently. Search engines continually evolve and incorporate new technologies to enhance their indexing and retrieval capabilities.
 
 
