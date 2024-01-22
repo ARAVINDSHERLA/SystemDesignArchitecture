@@ -15,7 +15,8 @@
 # Data corruption and Merkle trees
 # In Memory databases internals for system design interviews (Real-time Databases) :indexing ,AVL Tree
 # How row oriented and column oriented db works?
-# Bit Map:EFFICIENT COUNTING USING BITMAPS FOR SYSTEM DESIGN#LEARN BITMAP INDEXES:BitMap Indexing 
+# Bit Map:EFFICIENT COUNTING USING BITMAPS FOR SYSTEM DESIGN
+# LEARN BITMAP INDEXES:BitMap Indexing 
 # Clustered vs UnClustered index Structures
 # Distributed Cache:
 # Bloom Filter
